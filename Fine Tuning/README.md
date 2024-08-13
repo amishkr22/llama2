@@ -17,8 +17,7 @@ This repository contains a script for fine-tuning the LLaMA-2-7B model using QLo
 
 ## Setup
 
-To use this script, ensure that the required Python packages are installed:
+To set up the environment, use the provided `requirements.txt` file to install all necessary dependencies:
 
 ```bash
-!pip install -q accelerate==0.21.0 peft==0.4.0 bitsandbytes==0.40.2 transformers==4.31.0 trl==0.4.7
-
+pip install -r requirements.txt
