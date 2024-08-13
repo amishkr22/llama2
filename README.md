@@ -8,7 +8,7 @@ Welcome to the **LLAMA** projects repository! This repository serves as a centra
 - **Project Folders:** Each project related to LLAMA is organized into its own folder. These folders are named to clearly indicate their focus on the LLAMA model, making it easy to navigate and locate specific projects.
 
 - **First Project: It's Fine-Tuning**
-  - The first project in this repository is titled **"It's Fine-Tuning"**. This project delves into the fine-tuning process of the LLAMA model, offering insights and practical approaches to optimize the model for specific tasks and datasets. Whether you're new to fine-tuning or looking to enhance your existing models, this project serves as a comprehensive guide.
+  - The first project in this repository is titled **"It's Fine-Tuning"**.
 
 ## Getting Started
 
