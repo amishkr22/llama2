@@ -1,5 +1,6 @@
 # llama2
 # LLAMA Projects Repository
+![Llama header new (1)](https://github.com/user-attachments/assets/f8bf1724-0e5a-4cd3-ac24-ddbed2acdee2)
 
 Welcome to the **LLAMA** projects repository! This repository serves as a centralized hub for all projects related to the LLAMA architecture. Whether you're exploring new applications, optimizing existing models, or experimenting with fine-tuning techniques, you'll find all the relevant projects under this repository.
 
