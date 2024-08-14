@@ -32,3 +32,6 @@ This is a subset (1000 samples) of the excellent [timdettmers/openassistant-guan
 
 
 Useful if you don't want to reformat it by yourself (e.g., using a script). It was designed for this article about fine-tuning a Llama 2 (chat) model in a Google Colab.
+
+## QLORA
+QLoRA is the extended version of LoRA which works by quantizing the precision of the weight parameters in the pre trained LLM to 4-bit precision. Typically, parameters of trained models are stored in a 32-bit format, but QLoRA compresses them to a 4-bit format. This reduces the memory footprint of the LLM, making it possible to finetune it on a single GPU. This method significantly reduces the memory footprint, making it feasible to run LLM models on less powerful hardware, including consumer GPUs.
