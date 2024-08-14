@@ -25,6 +25,7 @@ pip install -r requirements.txt
 
 ## About Dataset
 This is a subset (1000 samples) of the excellent [timdettmers/openassistant-guanaco ](https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k), processed to match Llama 2's prompt format as Shown. It was created using the following colab notebook.
+
 ![image](https://github.com/user-attachments/assets/85d98b25-aa9f-4b82-adcd-3eef90be1dab)
 
 
